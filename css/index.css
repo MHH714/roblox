@@ -1,1 +1,14 @@
+@font-face {
+  font-family: 'OSP-DIN';
+  font-display: swap;
+  src:  url('../fonts/OSP-DIN.woff2') format('woff2');
+}
 
+@font-face {
+  font-family: 'OSP-DIN fallback';
+  src: local("OSP-DIN");
+  size-adjust: 107.0596%;
+  ascent-override: 90.4869%;
+  descent-override: 22.5554%;
+  line-gap-override: 0%;
+}
